@@ -4,7 +4,7 @@
 //
 
 #import "SkkjGenderHelper.h"
-#import "YunValueHelper.h"
+#import <YunKits/YunValueHelper.h>
 
 @interface SkkjGenderHelper () {
 }

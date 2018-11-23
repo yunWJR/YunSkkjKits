@@ -4,10 +4,10 @@
 //
 
 #import "SkkjUpdateRqt.h"
-#import "YunErrorHelper.h"
-#import "YunRqtMg.h"
 #import "SkkjVersionModel.h"
-#import "YunRqtUrlHelper.h"
+#import <YunBaseApp/YunErrorHelper.h>
+#import <YunBaseApp/YunRqtMg.h>
+#import <YunBaseApp/YunRqtUrlHelper.h>
 
 @implementation SkkjUpdateRqt
 

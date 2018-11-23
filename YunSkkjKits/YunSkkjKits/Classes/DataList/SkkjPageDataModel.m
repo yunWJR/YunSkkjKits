@@ -3,9 +3,10 @@
 // Copyright (c) 2016 成都晟堃科技有限责任公司. All rights reserved.
 //
 
+#import <Mantle/MTLModel.h>
 #import "SkkjPageDataModel.h"
-#import "MJRefresh.h"
-#import "UIView+YunAdd.h"
+#import <MJRefresh/MJRefresh.h>
+#import <YunKits/UIView+YunAdd.h>
 
 @implementation SkkjPageDataModel
 

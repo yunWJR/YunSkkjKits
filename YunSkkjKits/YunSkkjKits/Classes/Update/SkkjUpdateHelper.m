@@ -4,13 +4,13 @@
 //
 
 #import <YunBaseApp/YunRqtUrlHelper.h>
-#import "YunSystemMediaHelper.h"
 #import "SkkjUpdateHelper.h"
 #import "SkkjUpdateRqt.h"
 #import "SkkjVersionModel.h"
-#import "YunCacheFileHelper.h"
-#import "YunAlertViewHelper.h"
-#import "YunValueVerifier.h"
+#import <YunKits/YunValueVerifier.h>
+#import <YunKits/YunSystemMediaHelper.h>
+#import <YunBaseApp/YunCacheFileHelper.h>
+#import <YunBaseApp/YunAlertViewHelper.h>
 
 @interface SkkjUpdateHelper () {
     SkkjVersionModel *_data;
